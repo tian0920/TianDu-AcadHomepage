@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tian Du | Academic Homepage"
 description              : "Personalized Federated Learning, LLMs-based Unlearning, LLMs-based Agent and Security."
-repository               : "tian0920/TianDu-AcadHomepage"
+repository               : "tian0920/AcadHomepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
