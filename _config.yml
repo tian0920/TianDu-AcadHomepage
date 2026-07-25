@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Tian Du | Academic Homepage"
-description              : "Ph.D. researcher in Big Data Management, federated learning, privacy-preserving data intelligence, and distributed learning."
-repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
+description              : "Personalized Federated Learning, LLMs-based Unlearning, LLMs-based Agent and Security."
+repository               : "tian0920/TianDu-AcadHomepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tian Du | 杜田"
-  avatar           : "images/avatar.svg"
-  bio              : "Ph.D. Researcher in Big Data Management"
+  name             : "Tian Du | 杜甜"
+  avatar           : "images/dutian.jpg"
+  bio              : "Ph.D. Candidate in Big Data Management"
   location         : "Chengdu, China / Singapore"
-  employer         : "Southwestern University of Finance and Economics"
+  employer         : "SWUFE/NTU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pJW7tXcAAAAJ"
-  email            :
+  email            : "dtian.nora@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
