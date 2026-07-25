@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Tian Du monogram</title>
+  <circle cx="256" cy="256" r="256" fill="#224b8d"/>
+  <text x="256" y="300" fill="#ffffff" font-family="Georgia,serif" font-size="170" text-anchor="middle">TD</text>
+</svg>
